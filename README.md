@@ -1,9 +1,12 @@
-- 👋 Hi, I’m Rohit Mishra
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science 
-- 📫 How to reach me by below sites :
-  Instagram = rohitmishra_28
-  Gmail = rohitmishra5560@gmail.com
+👋 Hey there!
+Rohit Mishra here, passionate about Data Science.
+
+Currently deep-diving into datasets, Python notebooks, and visualization tools.
+
+Let’s connect:
+Email: rohitmishra5560@gmail.com
+
+Thanks for stopping by my GitHub—stay tuned for new projects and insights!
 
 <!---
 DataWhizMishra/DataWhizMishra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
